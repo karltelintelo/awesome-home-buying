@@ -48,6 +48,7 @@ A compendium of resources for the home buyer who wants to know everything they c
 
 ## Mortgages
 ### Guides
+- [Myers Capital Hawaii: Home Purchase Loans](https://www.myerscapitalhawaii.com/home-loans/purchase) - Hawaii mortgage lender’s overview of home purchase financing and available loan types.
 - [Investopedia: Mortgage Brokers vs. Direct Lenders](https://www.investopedia.com/articles/personal-finance/090915/mortgage-broker-vs-direct-lenders-which-best.asp) - The differences between brokers and direct lenders, pros and cons, and which to choose depending on your situation.
 - [Time: How to Find the Best Mortgage Lender](https://time.com/nextadvisor/mortgages/how-to-find-the-best-mortgage-lender/) - Whether to choose a broker or a lender, and what specific items to shop around for and focus on.
 - [RocketMortgage: Types of Mortgages](https://www.rocketmortgage.com/learn/types-of-mortgages) - An introductory explainer on the different types of mortgages offered by lenders, banks and brokers.
